@@ -74,32 +74,36 @@ Game engines that let you make a full game, but often within a particular style,
 *   [Flickgame](https://www.flickgame.org/) - A truly tiny engine, link frames to other frames. Share online or export.
 *   [GB Studio](https://www.gbstudio.dev/) - A drag and drop gameboy interface that lets you do some scripting. Export to html or an actual gameboy rom!
 *   [Bitsy](https://ledoux.itch.io/bitsy) - Bitsy is a simple sprite-based editor that lets you build rooms & worlds. Walk around and talk to people and be somewhere. Has a strong community.
-*   [Borksy](https://ayolland.itch.io/borksy) / [ Bitsy HD](https://vonbednar.itch.io/bitsy-x2) / [bitsy hacks](https://github.com/seleb/bitsy-hacks) / [bitsy mixer template](https://github.com/moreelen/bitsy-mixer) - Hacks that extend the functionality of bitsy in various ways.
+*   [Borksy](https://ayolland.itch.io/borksy) - Bitsy with hacks built-in.
+*   [Bitsy HD](https://vonbednar.itch.io/bitsy-x2) - Bitsy at double the size.
+*   [bitsy hacks](https://github.com/seleb/bitsy-hacks) - Hacks that extend the functionality of bitsy in various ways.
+*   [bitsy mixer template](https://github.com/moreelen/bitsy-mixer) - Hacks that extend the functionality of bitsy in various ways.
 *   [Flicksy](https://candle.itch.io/flicksy) - A tool for drawing and assembling graphical hypertext games - lets you import drawings!
 *   [Mosi](https://zenzoa.itch.io/mosi) - Similar to bitsy, but with more color & sound support, and more advanced scripting options.
 *   [Bravitzlana](http://bravitzlana.com/tutorial) - A tool for making small interactive scenes (3d! kind of) that you can share with people.
 *   [PuzzleScript](https://www.puzzlescript.net/) - An open source, HTML5 puzzle-game oriented editor.
 *   [Dungeonscript](http://dungeonscript.farbs.org/) - Puzzlescript, but first person
 *   [RPG Paper Maker](https://wano.itch.io/rpg-paper-maker) - An extremely cute jrpg-focused engine that lets you place flat sprites in a 3d world. (free, but $70 if you sell your game commercially)
-*   [Flatgames](https://flatgame.itch.io/first-timers-tutorial) / [Flatpack](https://candle.itch.io/flatpack) - Flatgames are as much a concept as engine (2d, a raw combination of movement, art and sound), but Flatpack bundles those ideas up into a tool that you can import into Unity or run on Android.
+*   [Flatgames](https://flatgame.itch.io/first-timers-tutorial) - Flatgames tutorial - as much a concept as a tool (2d, a raw combination of movement, art and sound.
+*   [Flatpack](https://candle.itch.io/flatpack) - Flatpack bundles Flatgame ideas up into a tool that you can import into Unity or run on Android.
 *   [Tiny Game Maker](https://isthisstatic.itch.io/tiny-game-maker) - For small, one screen games without programming.
 *   [Kooltool](https://candle.itch.io/kooltool) - An experimental game making tool which has Kidpix vibes.
 *   [The Unfolding Game Engine](https://barch.itch.io/unfolding) - One to watch (in early access right now). A “paint a world” engine that lets you make your world while playing it. 2.5d. 
 *   [Multiverse](https://www.playmultiverse.com/) - Not out yet - a storytelling and game making tools/game.
-*   [Bitmelo](https://davidbyers.itch.io/bitmelo) - A game editor and engine for making small pixel art games. In early access, exports to HTML5\.
-*   [Sok Worlds](https://sokpop.itch.io/sok-worlds) ($3) - A truly wild game/tool where you make and explore 3d collage worlds (images from the pixabay API, but there are over a million to choose from.).
-*   [Sok Stories](https://sokpop.itch.io/sok-stories) ($3) - A drawing-based way to make and share games.
+*   [Bitmelo](https://davidbyers.itch.io/bitmelo) - A game editor and engine for making small pixel art games. In early access, exports to HTML5.
+*   [Sok Worlds](https://sokpop.itch.io/sok-worlds) - ($3) A truly wild game/tool where you make and explore 3d collage worlds (images from the pixabay API, but there are over a million to choose from.).
+*   [Sok Stories](https://sokpop.itch.io/sok-stories) - ($3) A drawing-based way to make and share games.
 *   [Playscii](http://vectorpoem.com/playscii/) 
-*   [Wick](https://www.wickeditor.com) Editor - Also an animation program- a friendly flash-like for multimedia projects that allows interaction and game-like play.
+*   [Wick](https://www.wickeditor.com) - Also an animation program, a friendly flash-like for multimedia projects that allows interaction and game-like play.
 *   [Unicorn Console](https://github.com/Gigoteur/UnicornConsole) - A “a quick and dirty engine … with a resolution of 400x240 pixels.”
 *   [Vipercard](https://www.vipercard.net/) - An open source reimagining of 1987’s Hypercard.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories. Has a big community and multiple versions and themes.
-*   [Choicescript](https://www.choiceofgames.com/make-your-own-games/choicescript-intro/)  - Like Twine, but for more traditional CYOA gamebooks-with-stats. Tight community on the forums.
+*   [Choicescript](https://www.choiceofgames.com/make-your-own-games/choicescript-intro/) - Like Twine, but for more traditional CYOA gamebooks-with-stats. Tight community on the forums.
 *   [Tiny Choice](https://www.tinychoice.net/) - The tiniest of twine-likes, written in the browser.
 *   [Inform](http://inform7.com/) - A design system for interactive fiction which has been around for a while!
 *   [Ink](https://www.inklestudios.com/ink/) - A narrative engine designed to slot into a game engine.
 *   [StudyCrafter](https://studycrafter.com/) - A scratch-like platform where you can play, share, and create interactive projects, on the browser or offline, and collect data from players.
-*   [Inklewriter](https://www.inklewriter.com)- The “baby” Ink, runs in browser and great for CYOA, same UI as Sorcery!
+*   [Inklewriter](https://www.inklewriter.com) - The “baby” Ink, runs in browser and great for CYOA, same UI as Sorcery!
 *   [The Adliberum Engine](https://store.steampowered.com/app/657180/The_Adliberum_Engine_ADLENGINE/) - (Free but on Steam, early access) Make text adventures, muds and text-powered roleplaying games.
 *   [Yarn Spinner](https://yarnspinner.dev/) - The friendly tool for writing game dialogue.
 *   [Cheap Bots Done Quick](https://cheapbotsdonequick.com/) - A site where you can make a twitterbot today.
@@ -133,9 +137,9 @@ Indie and open source game engines with more flexibility and power than the litt
 A fantasy console is like a regular console (machine specs, dev tools, community), but without hardware. It is like an emulator for a machine that never existed. Generally, these are in the form of an application.
 
 
-*   [Pico8](https://www.lexaloffle.com/pico-8.php) ($15) - Probably the most popular fantasy console for game dev, pico8 has harsh limitations but that are intentionally chosen. Code is written in lua. Export to standalone HTML+JS or PNG (a fantasy cartridge).
+*   [Pico8](https://www.lexaloffle.com/pico-8.php) - ($15) Probably the most popular fantasy console for game dev, pico8 has harsh limitations but that are intentionally chosen. Code is written in lua. Export to standalone HTML+JS or PNG (a fantasy cartridge).
 *   [Tic-80](https://tic.computer/) - Coding in lua and moonscript. export to html or .tic.
-*   [Pixel Vision 8](https://www.pixelvision8.com/) - (Free, pro version is $30) - A no-console fantasy computer, navigate like the familiar icon-based desktops you know. 
+*   [Pixel Vision 8](https://www.pixelvision8.com/) - (Free, pro version is $30) A no-console fantasy computer, navigate like the familiar icon-based desktops you know. 
 *   [LIKO-12](https://liko-12.github.io/) - Entirely open-source and free, written in Lua. The dev says: “Why did I develop this? Because I wanted to buy PICO-8 but that's not possible without credit cards (no internet shopping in Syria)”.
 *   [Pix64](https://zappedcow.itch.io/pix64) - An extremely tiny fantasy console (64x64 px).
 *   [Homegirl Pro](https://poeticandroid.itch.io/homegirl) - A fantasy console with a very different vibe! This one dispenses of pixel nostalgia and is modeled after a Commodore Amiga. Coding in Lua.
@@ -167,16 +171,17 @@ Tools or plug-ins that change the experience of using Unity.
 *   [unity-wave-function-collapse](https://selfsame.itch.io/unitywfc) - Bitmap & tilemap generation from a single example.
 *   [Tessera](https://assetstore.unity.com/packages/tools/modeling/tessera-procedural-tile-based-generator-155425)- 2d / 3d wave function collapse generation.
 *   [Borderless Unity Windows](https://novack.itch.io/borderless) - A tiny tool for making Unity frameless apps from script.
-*   [First Person Drifter](http://www.torahhorse.com/index.php/portfolio/first-person-drifter-for-unity/).
+*   [First Person Drifter](http://www.torahhorse.com/index.php/portfolio/first-person-drifter-for-unity/) - The original drifting game controller. 
+*   [2019 updated First Person Drifter](https://drive.google.com/file/d/1Qll6Pp_U1fN5IheQrjbVu-yeTHrj9JGI/view) - Download an updated first-person drifter package for Unity 2019 from me.
 *   [Unity Recorder](https://assetstore.unity.com/packages/essentials/unity-recorder-94079) - An editor-only tool that captures video and animation data during gameplay.
 *   [Bobbin](https://github.com/radiatoryang/bobbin) - A small Unity editor tool that can automatically download and import anything with a URL into the project.
-*   [Meshedit](https://jamie-rollo.itch.io/mesh-edit) ($35) - A Unity extension that lets you create and texture models from scratch.
-*   [Doodlestudio 95](https://fernandoramallo.itch.io/doodle-studio-95) ($45) - A FUN drawing and animation tool for Unity.
-*   [Raymarching Toolkit](https://kev.town/raymarching-toolkit/) ($75) - A Unity add-on for editing raymarched scenes live.
+*   [Meshedit](https://jamie-rollo.itch.io/mesh-edit) - ($35) A Unity extension that lets you create and texture models from scratch.
+*   [Doodlestudio 95](https://fernandoramallo.itch.io/doodle-studio-95) - ($45) A FUN drawing and animation tool for Unity.
+*   [Raymarching Toolkit](https://kev.town/raymarching-toolkit/) - ($75) A Unity add-on for editing raymarched scenes live.
 *   [Path Creator](https://github.com/SebLague/Path-Creator)- Path creation asset for Unity game development
 *   [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Create powerful inspectors without the need for custom editors.
 *   [UCLA Game Lab Mesh Creator](https://assetstore.unity.com/packages/tools/sprite-management/ucla-mesh-creator-11066) - Extrudes 2D drawings into 3D objects.
-*   [Rhythm beat mapper](https://assetstore.unity.com/packages/tools/audio/koreographer-54639) - ($45) - Synchronizes gameplay to music in your video game.
+*   [Rhythm beat mapper](https://assetstore.unity.com/packages/tools/audio/koreographer-54639) - ($45) Synchronizes gameplay to music in your video game.
 *   [JPEG-MP4-Compression](https://github.com/JanMalitschek/JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D) - recreates the effect of JPEG/MP4 compression as a PostProcessing Effect.
 
 
@@ -237,13 +242,14 @@ Tools for making images.
 #### ASCII/ANSI/etc:
 
 *   [Petmate](https://nurpax.github.io/petmate/) - a cross-platform C64 PETSCII image editor.
-*   [Playscii](http://vectorpoem.com/playscii/) - ASCII art generator. (Also an engine - see above).
-*   [alivepaintery](https://cellusious.itch.io/alivepaintery) - Windows ASCII paint tool - “draw stuff it's fun”.
+*   [Playscii](http://vectorpoem.com/playscii/) - ASCII art generator, also an engine.
+*   [alivepaintery](https://cellusious.itch.io/alivepaintery) - Windows ASCII paint tool: “draw stuff it's fun”.
 *   [edscii](http://vectorpoem.com/edscii/) - An ASCII/ANSI art tool w/ support for arbitrary character sets and color palettes.
 *   [rexpaint](https://www.gridsagegames.com/rexpaint/) - A powerful and user-friendly ASCII art editor.
 *   [Glyph Drawing Club](https://glyphdrawing.club/) - A free online modular design and text art tool where people can draw with the keyboard.
 *   [Paint with Webflow](https://paintwith.webflow.io/) - A very simple pixel art canvas.
-*   [ASCII PAINT](http://ascii.alienmelon.com/) & [ASCII PAINT (SKELETON EDITION)](https://alienmelon.itch.io/ascii-paint) - Paint ASCII art by filling in a very accessible ASCII grid.
+*   [ASCII PAINT](http://ascii.alienmelon.com/) - Paint ASCII art by filling in a very accessible ASCII grid.
+*   [ASCII PAINT (SKELETON EDITION)](https://alienmelon.itch.io/ascii-paint) - Paint ASCII art by filling in a very accessible ASCII grid, with skeleton.
 *   [UUUmoji](http://www.eurostandard.ch/uuumoji/) - An "Emoji Raster System" for uploaded images.
 *   [Ascii Generator 2](https://sourceforge.net/projects/ascgen2/) - An application to convert images into high quality ASCII art.
 *   [AnsiLove/C](https://www.ansilove.org/downloads.html)- A tool to convert ANSI and artscene-related file formats into PNG images.
@@ -306,15 +312,15 @@ Tools for making images.
 Tools for creating moving images, either animated or videographic.
 
 
-*   [Wick](https://www.wickeditor.com) Editor - Also an engine- do frame animation like Flash.
+*   [Wick](https://www.wickeditor.com) - Also an engine, do frame animation like Flash.
 *   [Jsetter](https://emad.itch.io/jpixel) - A free editor for making pixel art animations and tilesets.
 *   [Paint of Persia](https://dunin.itch.io/ptop) - A rotoscoping tool that lets you draw pixel art over video frames.
 *   [Clipnote](https://calcium-chan.itch.io/clipnote) - An online remake of the much beloved flipnote studio by Nintendo.
-*   [Looom](https://apps.apple.com/us/app/looom/id1454153126) ($10) - An easy-to-pickup iOS app/toy that exports SVGs.
-*   [Aseprite](https://dacap.itch.io/aseprite) ($15) - A a sprite editor that lets you create 2D animations, heavily used.
-*   [Pixatool](https://kronbits.itch.io/pixatool) ($50) - PixelArt conversion tool. Not cheap, but on sale regularly.
-*   [Juice FX](https://codemanu.itch.io/juicefx) ($20) - Add style (“juice”) to your sprites and animations.
-*   [Smear FX](https://codemanu.itch.io/smear-fx) ($15) - Add smearing to your sprites and animations.
+*   [Looom](https://apps.apple.com/us/app/looom/id1454153126) - ($10) An easy-to-pickup iOS app/toy that exports SVGs.
+*   [Aseprite](https://dacap.itch.io/aseprite) - ($15) A a sprite editor that lets you create 2D animations, heavily used.
+*   [Pixatool](https://kronbits.itch.io/pixatool) - ($50) PixelArt conversion tool. Not cheap, but on sale regularly.
+*   [Juice FX](https://codemanu.itch.io/juicefx) - ($20) Add style (“juice”) to your sprites and animations.
+*   [Smear FX](https://codemanu.itch.io/smear-fx) - ($15) Add smearing to your sprites and animations.
 *   [Synfig Studio](https://www.synfig.org/) - A 2D animation tool.
 *   [Video Downloader Bot](https://twitter.com/DownloaderBot/with_replies) - A twitterbot you can @mention to have it turn a piece of media into a download link.
 *   [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
@@ -345,9 +351,9 @@ Tools that help you deal with 3d models or 3d space.
 *   [ngPlant](http://ngplant.org/) - A 3D plant modelling software suite.
 *   [VLab Studio](http://algorithmicbotany.org/virtual_laboratory/) - Plant modelling from Algorithmic Botany Lab.
 *   [Tree It](http://www.evolved-software.com/treeit/treeit) - an easy to use real time 3D tree generator.
-*   [The Grove](https://www.thegrove3d.com/buy/) - Growing (€119) - Extremely competent tree growth software, works with Blender. Almost didn’t include because $ but it does what it does well.
-*   [Asset Forge](https://assetforge.io/) ($20, or $40 for pro) - Creates 3D models and 2D sprites by kit-bashing various pre-made blocks together.
-*   [FlowScape](https://pixelforest.itch.io/flowscape) ($10) - As much game as tool- the 3d Bob Ross experience. Usable as a landscape composer. 
+*   [The Grove](https://www.thegrove3d.com/buy/) - Growing (€119) Extremely competent tree growth software, works with Blender. Almost didn’t include because $ but it does what it does well.
+*   [Asset Forge](https://assetforge.io/) - ($20, or $40 for pro) Creates 3D models and 2D sprites by kit-bashing various pre-made blocks together.
+*   [FlowScape](https://pixelforest.itch.io/flowscape) - ($10) As much game as tool- the 3d Bob Ross experience. Usable as a landscape composer. 
 *   [Dilay](http://abau.org/dilay/) - A 3D sculpting intuitive application.
 *   [MeshLab](http://meshlab.sourceforge.net/) - An open source system for processing and editing triangular meshes.
 *   [Blender](https://www.blender.org/) - The general standard open-source & free 3d modeling program. Complicated but powerful.
@@ -358,7 +364,7 @@ Tools that help you deal with 3d models or 3d space.
 *   [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script for the generation of spaceships.
 *   [Sproxel](http://sproxel.blogspot.com.br/p/about-sproxel.html) - A 3D interface for editing and creating voxel-based 3D models.
 *   [Papercraft With Blender](https://www.instructables.com/id/Papercraft-With-Blender/) - Export blender model to a foldable paper sheet!
-*   [andrewmarsh.com/software](http://andrewmarsh.com/software/), more.
+*   [andrewmarsh.com/software](http://andrewmarsh.com/software/) - Various generative tools - model weather, parametric shapes, sunpaths, trees, more.
 *   [Dimensions.Guide](https://www.dimensions.guide/) - A database of measurements and sizes of everyday objects.
 *   [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
 *   [SmartNormal 2.0](http://www.smart-page.net/smartnormal/) - Create normal maps from base textures for free.
@@ -391,7 +397,7 @@ Tools for sound effects, music, and general audio.
 *   [Paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - A program for extreme audio stretching. Make choruses and ambient tones.
 *   [Audacity](http://audacity.sourceforge.net/) - The free software for recording and editing sounds.
 *   [AudioSculpt](http://anasynth.ircam.fr/home/english/software/audiosculpt) - A visual approach to modifying a sound file.
-*   [Reaper -](http://reaper.fm/) Digital audio workstation
+*   [Reaper](http://reaper.fm/) - Digital audio workstation
 *   [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Audio signal processing environment for mangling sound.
 *   [FamiStudio](https://bleubleu.itch.io/famistudio) - NES Music Editor.
 
@@ -415,7 +421,7 @@ Tools for sound effects, music, and general audio.
 *   [ChucK](https://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.
 *   [Sunvox](https://warmplace.ru/soft/sunvox/) - Cross-platform small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 *   [LMMS](https://lmms.io/)- Cross-platform, free, open source music tracker/sequencer/composer. Has its own instruments, some VST plugins compatibility
-*   [VCV Rack](https://vcvrack.com): Virtual Eurorack DAW. Cross-platform, free, open source virtual modular synthesiser. Lots of modules and a good community. You can even code your own modules if you know C++.
+*   [VCV Rack](https://vcvrack.com) - Virtual Eurorack DAW. Cross-platform, free, open source virtual modular synthesiser. Lots of modules and a good community. You can even code your own modules if you know C++.
 *   [Pure Data](https://puredata.info/) - open-source cousin of experimental patching environment MAX/MSP
 
 
@@ -453,7 +459,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Casual Effects](http://casual-effects.com/) - Misc resources & computer graphics projects.
 *   [Dear ImGui](https://github.com/ocornut/imgui) - A bloat-free graphical user interface library for C++.
 *   [Feathers UI](https://feathersui.com/) - Cross-platform user interface components for creative frontend projects.
-*   [DS Game Maker](https://en.freedownloadmanager.org/Windows-PC/DS-Game-Maker.html).
+*   [DS Game Maker](https://en.freedownloadmanager.org/Windows-PC/DS-Game-Maker.html) - Make Nintendo DS Roms! (Hard to get running).
 *   [FNA](https://fna-xna.github.io/) - A reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries.
 *   [Easel.js](https://github.com/CreateJS/EaselJS/) - A range of tools to make working with the HTML5 Canvas API.
 *   [Tideflow](https://github.com/tideflow-io/tideflow) - Design, automate and monitor your workflows in realtime.
@@ -465,7 +471,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Joy.js](https://ncase.me/joy/) - A tool for making “happy little programs”.
 *   [TSPS](http://www.tsps.cc/) - A cross-platform Toolkit for Sensing People in Spaces.
 *   [Pure Data](https://puredata.info/) - An open source visual programming language for multimedia.
-*   [OpenSimpl](https://github.com/iliasam/OpenSimpleLidar)
+*   [OpenSimpl](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder.
 *   [eLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder.
 *   [Pencil.js](https://pencil.js.org/) - Nice modular Javascript library with clear OOP syntaxe and lots of features.
 *   [LibGDX](https://libgdx.badlogicgames.com/) - A java game development framework
@@ -479,7 +485,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [This Person Doesn’t Exist](https://thispersondoesnotexist.com/) - Same as above but generated live, bonus cats & horses.
 *   [Talk to Transformer](https://talktotransformer.com/) - Chat with a GPT2 text AI model, perhaps useful in generating that next line when you’ve got writer’s block.
 *   [Components AI](https://components.ai/) - an experimental computational design platform for exploring generative space.
-*   [AI Gigapixel](https://topazlabs.com/gigapixel-ai/) ($100, full free trial) - Upscale photos in an app.
+*   [AI Gigapixel](https://topazlabs.com/gigapixel-ai/) - ($100, full free trial) Upscale photos in an app.
 *   [Let’s Enhance.io](https://letsenhance.io/) - “Image enhancement powered by AI”
 *   [ArtBreeder](https://www.artbreeder.com/) - Breed two images & use trained models in an app
 *   [ml5.js](https://ml5js.org/) - Web interface to make machine learning approachable.
@@ -572,8 +578,8 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Wordoid](http://wordoid.com/) - Random word generator with toggles for language, quality, patterns, length, and domain availability.
 *   [Universal Text Combination Generator](http://textmechanic.com/text-tools/combination-permutation-tools/permutation-generator/)- See how words might fit together.
 *   [Mixwords](https://www.filosophy.org/projects/mixwords/) - Takes source words and generates random mixes.
-*   [Fantasy Name Generator](http://www.fantasynamegenerators.com/)- Generates names, words, and descriptions in many categories.
-*   [Random Name Generator -](http://random-name-generator.info/) Creates names sourced from samples in the US Census.
+*   [Fantasy Name Generator](http://www.fantasynamegenerators.com/) - Generates names, words, and descriptions in many categories.
+*   [Random Name Generator](http://random-name-generator.info/) - Creates names sourced from samples in the US Census.
 *   [carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 *   [Blotter](https://blotter.js.org/) -  A JavaScript API for drawing unconventional text effects on the web.
 *   [Bank Check Printer](https://ricks-apps.com/osx/bankcheckprinter/index.html) - A Macintosh application that prints your bank checks.
@@ -633,7 +639,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Snap2HTML](https://www.rlvision.com/snap2html/about.php) - Takes a "snapshot" of folder structures on your harddrive and saves as HTML files.
 *   [Art HTML Listing](https://www.zzee.com/art-html-listing/) - creates filtered, sorted, fully customizable directory listings, indexes, menus, maps and trees.
 *   [Tree Command](https://rschu.me/list-a-directory-with-tree-command-on-mac-os-x-3b2d4c4a4827) - List a directory as a webpage or in the console, Mac.
-*   [Tree HTM](https://pypi.org/project/tree-html/)L - S/A, python.
+*   [Tree HTML](https://pypi.org/project/tree-html/) - S/A, python.
 *   [Enoki](https://enoki.site/) - An experimental and decentralized tool for peer-to-peer publishing.
 *   [MAMP](https://www.mamp.info/en/mac/) - A free, local server environment to run WordPress on a desktop.
 *   [txt.fyi](https://txt.fyi/) -  Write something, hit publish, and it's live.
@@ -690,7 +696,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Planktos](https://xuset.github.io/planktos/) - Enables websites to serve their static content peer-to-peer by having active users serve assets to other users via bittorrent.
 *   [Stein](https://steinhq.com/) - Paid tiers (meh) but free for personal use- manage web data with Google Sheets.
 *   [Diagram.codes](https://www.diagram.codes/) - Describe diagrams with a simple text language and automatically generate an image you can export.
-*   So many more:  [https://webfieldmanual.com](https://webfieldmanual.com) 
+*   [https://webfieldmanual.com](https://webfieldmanual.com) - So many more web-related tools.
 
 
 <a name="Colors"></a>
@@ -725,7 +731,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [Electric Zine Maker HTML template](https://jeremyoduber.itch.io/js-zine) - A simple HTML5/JavaScript template for Electric Zine Maker zines.
 *   [Slaptrash](https://www.kickscondor.com/slaptrash/) - Make webzines in the browser!
 *   [Zine Machine](https://zine-machine.glitch.me/) - Steal this zine on glitch~
-*   [bookletcreator.com](http://bookletcreator.com) (Free up to 16 pages) for assembling ready-to-print PDFs from half-page sized PDFs.
+*   [bookletcreator.com](http://bookletcreator.com) - (Free up to 16 pages) for assembling ready-to-print PDFs from half-page sized PDFs.
 *   [pocketmod.com](http://pocketmod.com) - Take-a-piece-of-letter-paper-and-fold-it-into-an-eight-page-zine.
 *   [Paper Sizes](https://papersizes.io/) - Resource for International Paper Sizes, Dimensions & Formats.
 *   [Bindery.js](https://evanbrooks.info/bindery/) - A javascript library to create printable books with HTML and CSS.
@@ -733,7 +739,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [Quite Software](http://www.quite.com/) - Misc neat (oldschool!) Adobe plugins, paid and not cheap.
 *   [p5.Riso.js](https://antiboredom.github.io/p5.riso/) - A p5.js library for generating files suitable for Risograph printing.
 *   [The print simulator](https://www.risottostudio.com/print-simulator-ink-shift/) - a quick and easy way to see how things might print.
-*   [Unfolder for Mac](https://www.unfolder.app/) ($30) - Unfolder is a 3D model unfolding tool for creating papercraft.
+*   [Unfolder for Mac](https://www.unfolder.app/) - ($30) Unfolder is a 3D model unfolding tool for creating papercraft.
 *   [Rabbit Ear](https://rabbitear.org/docs/) - An origami / crease pattern tool in Javascript.
 
 
@@ -769,7 +775,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [Adobe PhoneGap](https://phonegap.com/) - Make hybrid applications built with HTML, CSS and JavaScript.
 *   [Electron JS](https://www.electronjs.org/) -  Build cross-platform desktop apps with JavaScript, HTML, and CSS
 *   [NW.js](https://nwjs.io/) - Write native applications & call Node.js modules directly from DOM.
-*   [Tumult Hype](https://tumult.com/hype/)  ($50) - Create HTML5 web content and animations, runs on desktops, smartphones and iPads.
+*   [Tumult Hype](https://tumult.com/hype/) - ($50) Create HTML5 web content and animations, runs on desktops, smartphones and iPads.
 
 
 <a name="Converters-downloaders-reducers"></a>
@@ -819,7 +825,3 @@ Tools for picking, analyzing, or seeing colors.
 *   [https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit](https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit) - Milan's Ultimate Resource List - Code, design, & education focus
 *   [https://plaintextproject.online/tools.html](https://plaintextproject.online/tools.html) - List of tools that can help you work and live more efficiently in plain text.
 *   [https://webfieldmanual.com](https://webfieldmanual.com) - A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
-
-
-
-You made it to the end!! Congrats.
