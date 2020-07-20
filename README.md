@@ -93,7 +93,6 @@ Game engines that let you make a full game, but often within a particular style,
 *   [Bitmelo](https://davidbyers.itch.io/bitmelo) - A game editor and engine for making small pixel art games. In early access, exports to HTML5.
 *   [Sok Worlds](https://sokpop.itch.io/sok-worlds) - ($3) A truly wild game/tool where you make and explore 3d collage worlds (images from the pixabay API, but there are over a million to choose from.).
 *   [Sok Stories](https://sokpop.itch.io/sok-stories) - ($3) A drawing-based way to make and share games.
-*   [Playscii](http://vectorpoem.com/playscii/) 
 *   [Wick](https://www.wickeditor.com) - Also an animation program, a friendly flash-like for multimedia projects that allows interaction and game-like play.
 *   [Unicorn Console](https://github.com/Gigoteur/UnicornConsole) - A “a quick and dirty engine … with a resolution of 400x240 pixels.”
 *   [Vipercard](https://www.vipercard.net/) - An open source reimagining of 1987’s Hypercard.
@@ -801,27 +800,27 @@ Tools for picking, analyzing, or seeing colors.
 ## More tools lists & reading about tools:
 
 
-*   [https://alternativeto.net/](https://alternativeto.net/) - Put in the name of the software you wish you could afford, get alternatives back!
-*   [http://www.ambrosine.com/resource.php](http://www.ambrosine.com/resource.php) - An older but huge games resource list - somewhat dated, but still lots of good in here.
-*   [https://itch.io/tools](https://itch.io/tools) - The itch.io tools page, sorted by popularity.
-*   [https://kool.tools/tool-gallery](https://kool.tools/tool-gallery) - mark wonnacot’s careful selection of interesting tools.
-*   [https://gist.github.com/brendanzab/3792143](https://gist.github.com/brendanzab/3792143) - World building miscellany links.
-*   [http://www.nathalielawhead.com/candybox/the-wonderful-world-of-tools-made-by-small-teams-solo-devs-and-shareware-weird-beautiful-and-experimental-things-to-be-creative-in-an-analysis-on-building-for-approachability](http://www.nathalielawhead.com/candybox/the-wonderful-world-of-tools-made-by-small-teams-solo-devs-and-shareware-weird-beautiful-and-experimental-things-to-be-creative-in-an-analysis-on-building-for-approachability) - Nathalie Lawhead breaks down the why on why small tools are great.
-*   [http://www.nathalielawhead.com/candybox/building-weird-games-with-alternative-technologies-workshop](http://www.nathalielawhead.com/candybox/building-weird-games-with-alternative-technologies-workshop) - S/A but on general workflows!
-*   [https://joon.be/techtoolbox/](https://joon.be/techtoolbox/) - GDC talks on homemade/weird/experimental tools.
-*   [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools) - Tools for AI & art.
-*   [http://www.galaxykate.com/pdfs/ComptonMateas-Casual%20Creators.pdf](http://www.galaxykate.com/pdfs/ComptonMateas-Casual%20Creators.pdf) - Kate Compton talks about casual creators and tool usage.
-*   [https://itch.io/t/10237/personal-games-resource-list](https://itch.io/t/10237/personal-games-resource-list) - A list of resources towards personal games from 2014.
-*   [https://notabug.org/Calinou/awesome-gamedev](https://notabug.org/Calinou/awesome-gamedev) - A list of (code focused) gamedev tools.
-*   [https://opensourcedesign.net/resources/](https://opensourcedesign.net/resources/) - Design tools.
-*   [https://github.com/cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Long long list of code tools.
-*   [https://generativelandscapes.wordpress.com/](https://generativelandscapes.wordpress.com/) - All about generative landscapes
-*   [http://www.procjam.com/](http://www.procjam.com/) - All about generating things in general!
-*   [https://docs.google.com/document/d/1I5RulboZQx8X8NO3fDQ6yuCxI0ao0W7AAsz-2W3cqzA/edit](https://docs.google.com/document/d/1I5RulboZQx8X8NO3fDQ6yuCxI0ao0W7AAsz-2W3cqzA/edit) - A similarly exhaustive list of new media tools, with a lot oriented around video & performance.
-*   [https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0) - Image tool list!
-*   [https://timrodenbroeker.de/resources/](https://timrodenbroeker.de/resources/) - Many resources and learning links, sorted by type
-*   [http://osp.kitchen/tools/](http://osp.kitchen/tools/) - Open Source Publishing tools
-*   [https://beepb00p.xyz/annotating.html](https://beepb00p.xyz/annotating.html) - How to annotate literally everything (tools & theory).
-*   [https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit](https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit) - Milan's Ultimate Resource List - Code, design, & education focus
-*   [https://plaintextproject.online/tools.html](https://plaintextproject.online/tools.html) - List of tools that can help you work and live more efficiently in plain text.
-*   [https://webfieldmanual.com](https://webfieldmanual.com) - A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
+*   [alternativeto](https://alternativeto.net/) - Put in the name of the software you wish you could afford, get alternatives back!
+*   [ambrosine.com/resource.php](http://www.ambrosine.com/resource.php) - An older but huge games resource list - somewhat dated, but still lots of good in here.
+*   [itch.io/tools](https://itch.io/tools) - The itch.io tools page, sorted by popularity.
+*   [kool.tools/tool-gallery](https://kool.tools/tool-gallery) - mark wonnacot’s careful selection of interesting tools.
+*   [gist.github.com/brendanzab/3792143](https://gist.github.com/brendanzab/3792143) - World building miscellany links.
+*   [Nathalie Lawhead's The wonderful world of tools](http://www.nathalielawhead.com/candybox/the-wonderful-world-of-tools-made-by-small-teams-solo-devs-and-shareware-weird-beautiful-and-experimental-things-to-be-creative-in-an-analysis-on-building-for-approachability) - Nathalie Lawhead breaks down the why on why small tools are great.
+*   [Nathalie Lawhead's Building weird games with alt tech](http://www.nathalielawhead.com/candybox/building-weird-games-with-alternative-technologies-workshop) - S/A but on general workflows!
+*   [joon.be/techtoolbox](https://joon.be/techtoolbox/) - GDC talks on homemade/weird/experimental tools.
+*   [aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools) - Tools for AI & art.
+*   [Kate Compton's Casual Creators](http://www.galaxykate.com/pdfs/ComptonMateas-Casual%20Creators.pdf) - Kate Compton talks about casual creators and tool usage.
+*   [itch.io/t/10237/personal-games-resource-list](https://itch.io/t/10237/personal-games-resource-list) - A list of resources towards personal games from 2014.
+*   [notabug.org/Calinou/awesome-gamedev](https://notabug.org/Calinou/awesome-gamedev) - A list of (code focused) gamedev tools.
+*   [opensourcedesign.net/resources](https://opensourcedesign.net/resources/) - Design tools.
+*   [github.com/cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Long long list of code tools.
+*   [generativelandscapes.wordpress.com](https://generativelandscapes.wordpress.com/) - All about generative landscapes
+*   [Procjam](http://www.procjam.com/) - All about generating things in general!
+*   [NEW MEDIA TOOLS](https://docs.google.com/document/d/1I5RulboZQx8X8NO3fDQ6yuCxI0ao0W7AAsz-2W3cqzA/edit) - A similarly exhaustive list of new media tools, with a lot oriented around video & performance.
+*   [URL TOOLS IMAGE : TOOLS DATABASE](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0) - Image tool list!
+*   [timrodenbroeker.de/resources](https://timrodenbroeker.de/resources/) - Many resources and learning links, sorted by type
+*   [osp.kitchen/tools](http://osp.kitchen/tools/) - Open Source Publishing tools
+*   [beepb00p.xyz/annotating.html](https://beepb00p.xyz/annotating.html) - How to annotate literally everything (tools & theory).
+*   [Milan's Ultimate Resource List 🗂🚀](https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit) - Milan's Ultimate Resource List - Code, design, & education focus
+*   [plaintextproject.online/tools.html](https://plaintextproject.online/tools.html) - List of tools that can help you work and live more efficiently in plain text.
+*   [webfieldmanual.com](https://webfieldmanual.com) - A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
