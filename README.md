@@ -1,4 +1,4 @@
-#Open source, experimental, and tiny tools roundup
+# Open source, experimental, and tiny tools roundup
 
 **This is a list of smaller tools that might be useful in building your game/website/interactive project.** Although I’ve mostly also included ‘standards’, this list has a focus on artful tools & toys that are as fun to use as they are functional.
 
@@ -63,10 +63,10 @@ Additions? Make a pull request and add a suggestion under the appropriate headin
 ## Games-focused tools:
 
 <a name="Game-Engines"></a>
-###Game Engines:
+### Game Engines:
 
 <a name="Tiny-weirdo-game-engines"></a>
-####Tiny/weirdo game engines:
+#### Tiny/weirdo game engines:
 
 Game engines that let you make a full game, but often within a particular style, ethos, framework, or with other limitations. Generally quick to pick up and work with, made for accessibility.
 
@@ -106,7 +106,7 @@ Game engines that let you make a full game, but often within a particular style,
 
 
 <a name="Indie-open-source-bigger-game-engines"></a>
-####Indie/open source bigger game engines:
+#### Indie/open source bigger game engines:
 
 Indie and open source game engines with more flexibility and power than the little engines above, and generally also another layer of complication. (Perhaps most useful if you are concerned about free but closed-source engines like [Unity](https://unity.com/).)
 
@@ -128,7 +128,7 @@ Indie and open source game engines with more flexibility and power than the litt
 
 
 <a name="Fantasy-consoles"></a>
-###Fantasy consoles:
+### Fantasy consoles:
 
 A fantasy console is like a regular console (machine specs, dev tools, community), but without hardware. It is like an emulator for a machine that never existed. Generally, these are in the form of an application.
 
@@ -153,10 +153,10 @@ A fantasy console is like a regular console (machine specs, dev tools, community
 * [https://github.com/paladin-t/fantasy](https://github.com/paladin-t/fantasy) - List of more fantasy consoles.
 
 <a name="Game-Engine-extenders"></a>
-###Game Engine extenders:
+### Game Engine extenders:
 
 <a name="Neat-Unity-extenders"></a>
-####Neat Unity extenders:
+#### Neat Unity extenders:
 
 Tools or plug-ins that change the experience of using Unity.
 
@@ -181,7 +181,7 @@ Tools or plug-ins that change the experience of using Unity.
 
 
 <a name="Neat-Godot-extenders"></a>
-####Neat Godot Extenders:
+#### Neat Godot Extenders:
 
 Tools or plug-ins that change the experience of using Godot.
 
@@ -190,7 +190,7 @@ Tools or plug-ins that change the experience of using Godot.
 
 
 <a name="Maps-place-levels"></a>
-###Maps, place, & levels:
+### Maps, place, & levels:
 
 Tools for making maps & levels - some of them simply visual, others generate data.
 
@@ -216,12 +216,12 @@ Tools for making maps & levels - some of them simply visual, others generate dat
 ## Making “assets” - images, models, sound, video:
 
 <a name="Graphics"></a>
-###Graphics:
+### Graphics:
 
 Tools for making images.
 
 <a name="Pixel-art"></a>
-####Pixel art:
+#### Pixel art:
 
 *   [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker)- What it sounds like - generates little pixel dudes.
 *   [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free & open-source 2D sprite editor with layers.
@@ -234,7 +234,7 @@ Tools for making images.
 
 
 <a name="ASCII-ANSI"></a>
-####ASCII/ANSI/etc:
+#### ASCII/ANSI/etc:
 
 *   [Petmate](https://nurpax.github.io/petmate/) - a cross-platform C64 PETSCII image editor.
 *   [Playscii](http://vectorpoem.com/playscii/) - ASCII art generator. (Also an engine - see above).
@@ -250,7 +250,7 @@ Tools for making images.
 
 
 <a name="Vector"></a>
-####Vector:
+#### Vector:
 
 *   [cozyvec](https://brubsby.itch.io/cozyvec) - A terminal program for creating plotter art (SVG files) in javascript.
 *   [Dotgrid](https://hundredrabbits.itch.io/dotgrid) - A grid-based vector drawing software designed to create logos, icons and type.
@@ -259,7 +259,7 @@ Tools for making images.
 
 
 <a name="Generators"></a>
-####Generators:
+#### Generators:
 
 *   [Rune Generator](https://watabou.itch.io/rune-generator) - A teeny-weeny rune generator.
 *   [Texatool](https://kronbits.itch.io/texatool) - Generate textures in a procedural/automatized way.
@@ -273,7 +273,7 @@ Tools for making images.
 
 
 <a name="Paint-programs"></a>
-####General/flexible paint programs:
+#### General/flexible paint programs:
 
 *   [Quadtastic](https://25a0.itch.io/quadtastic) - A tool to manage sprite sheets and color palettes.
 *   [Heavypaint](http://www.heavypoly.com/heavypaint) - A phone app for graphic painting.
@@ -287,7 +287,7 @@ Tools for making images.
 
 
 <a name="Other-Graphics-tools"></a>
-####Other Graphics tools:
+#### Other Graphics tools:
 
 *   [Controller Prompts](https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack) - A comprehensive collection of controllers and keyboard button prompts for all consoles.
 *   [Hyperdither](https://www.tinrocket.com/content/hyperdither/) - An OS X app that uses dithering to turn color or grayscale images into 1-bit black and white.
@@ -301,7 +301,7 @@ Tools for making images.
 
 
 <a name="Animation-video"></a>
-###Animation & video:
+### Animation & video:
 
 Tools for creating moving images, either animated or videographic.
 
@@ -325,7 +325,7 @@ Tools for creating moving images, either animated or videographic.
 
 
 <a name="3d"></a>
-###3D:
+### 3D:
 
 Tools that help you deal with 3d models or 3d space.
 
@@ -367,13 +367,13 @@ Tools that help you deal with 3d models or 3d space.
 
 
 <a name="Sound-music"></a>
-###Sound & music:
+### Sound & music:
 
 Tools for sound effects, music, and general audio.
 
 
 <a name="Sound-effects-generators"></a>
-####Sound effects generators:
+#### Sound effects generators:
 
 *   [Bfxr](https://www.bfxr.net/) - Sound effect editor that is based on sfxr.
 *   [rFXGen](https://raylibtech.itch.io/rfxgen) - Also sound effects, based on sfxr.
@@ -386,7 +386,7 @@ Tools for sound effects, music, and general audio.
 
 
 <a name="Sound-editors"></a>
-####Sound editors:
+#### Sound editors:
 
 *   [Paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - A program for extreme audio stretching. Make choruses and ambient tones.
 *   [Audacity](http://audacity.sourceforge.net/) - The free software for recording and editing sounds.
@@ -397,7 +397,7 @@ Tools for sound effects, music, and general audio.
 
 
 <a name="Music-composition"></a>
-####Music composition, instruments, effects:
+#### Music composition, instruments, effects:
 
 *   [Beepbox](https://www.beepbox.co/) - An online tool for sketching and sharing instrumental melodies.
 *   [Ribs](https://hvoyaaudio.itch.io/ribs) - A powerful granular synth that provides detailed control over its granular engine.
@@ -420,7 +420,7 @@ Tools for sound effects, music, and general audio.
 
 
 <a name="Other-sound-tools"></a>
-####Other sound tools and resources :
+#### Other sound tools and resources :
 
 *   [.mp3 to .midi online converter](https://www.bearaudiotool.com/mp3-to-midi) - Convert MP3 format to MIDI format
 *   [Mod Archive](https://modarchive.org/) - Large collection of music modules (.mod, used by GB Studio).
@@ -434,7 +434,7 @@ Tools for sound effects, music, and general audio.
 ## Coding:
 
 <a name="Coding-environments-frameworks-extensions"></a>
-###Coding environments, frameworks, & extensions:
+### Coding environments, frameworks, & extensions:
 
 Tools that provide a backend or new programming environment in which to make other work.
 
@@ -472,7 +472,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Machine-learning"></a>
-###Machine learning:
+### Machine learning:
 
 *   [RunwayML](https://runwayml.com/) - A simple interface for using ML in creative applications.
 *   [Generated Photos](https://generated.photos/?ref%3Devernote.design) - AI generated models for projects.
@@ -493,7 +493,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Live-Coding"></a>
-###Live Coding:
+### Live Coding:
 
 *   [Orca](https://hundredrabbits.itch.io/orca) - An esoteric language, usable as a live coding environment that can send and create MIDI, OSC & UDP signals.
 *   [Hydra](https://hydra-editor.glitch.me) - A platform for live coding visuals, where each browser window is a node.
@@ -509,7 +509,7 @@ Tools that provide a backend or new programming environment in which to make oth
 ## Text:
 
 <a name="Text-editors-writing-apps"></a>
-###Text editors & writing apps:
+### Text editors & writing apps:
 
 *   [Left](https://hundredrabbits.itch.io/left)- A distractionless plaintext editor.
 *   [Textreme](https://le-von.itch.io/textreme)- The most distracted plaintext editor.
@@ -538,7 +538,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Experimental-text-tools"></a>
-###Experimental text tools and formats:
+### Experimental text tools and formats:
 
 *   [telescopictext.org](http://www.telescopictext.org/) - An experimental tool for creating expanding texts.
 *   [Diary Email](https://diaryemail.com/) - Write a private diary using email (some paid tiers).
@@ -554,7 +554,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Text-manipulators"></a>
-###Text manipulators, converters, & other tools:
+### Text manipulators, converters, & other tools:
 
 *   [Online OCR](https://www.onlineocr.net/) - Optical Character Recognition software that runs online.
 *   [Word Counter](https://wordcounter.net/) - A word counter.
@@ -586,7 +586,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Fonts-font-resources"></a>
-###Fonts & font resources:
+### Fonts & font resources:
 
 *   [enFont Terrible](https://enfont-terrible.glitch.me/) - A weird type foundry that will export new fonts.
 *   [Phase](https://www.eliashanzer.com/phase/) - A generative type interface/toy, exported fonts free for personal use.
@@ -607,7 +607,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Productivity"></a>
-###‘Productivity’:
+### ‘Productivity’:
 
 *   [When2meet](https://www.when2meet.com/) - Free doodle polls.
 *   [Columns](http://columns.me) - Checklists arranged in columns.
@@ -621,7 +621,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Making-websites"></a>
-###Making websites:
+### Making websites:
 
 *   [Neocities](http://neocities.org/) - The Geocities of now, make a free website.
 *   [Hypnospace Productivity Suite](https://jay-tholen.itch.io/hsps) - Hypnospace Page Builder and Hypnospace Tune Sequencer from Hypnospace Outlaw - make your own!
@@ -648,7 +648,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Misc-website-related-code"></a>
-###Misc kool website-related code:
+### Misc kool website-related code:
 
 *   [dat.gui](https://workshop.chromeexperiments.com/examples/gui/%231--Basic-Usage) - Creates an interface that you can use to modify variables on a website.
 *   [Neumorphism.io](https://neumorphism.io) - Generate Soft-UI CSS code.
@@ -667,7 +667,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Tools-about-websites"></a>
-###Tools that are about/with websites:
+### Tools that are about/with websites:
 
 *   [Archiving URLs](https://www.gwern.net/Archiving-URLs) - Anti-linkrot toolset.
 *   [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights) - A (very useful) Google tester that can help you reduce bandwidth on your websites.
@@ -694,7 +694,7 @@ Tools that provide a backend or new programming environment in which to make oth
 
 
 <a name="Colors"></a>
-###Colors:
+### Colors:
 
 Tools for picking, analyzing, or seeing colors.
 
@@ -719,7 +719,7 @@ Tools for picking, analyzing, or seeing colors.
 
 
 <a name="Zines-books-prints"></a>
-###Zines, books, prints:
+### Zines, books, prints:
 
 *   [Electric Zine Maker](https://alienmelon.itch.io/electric-zine-maker) - A printshop and art tool for making zines.
 *   [Electric Zine Maker HTML template](https://jeremyoduber.itch.io/js-zine) - A simple HTML5/JavaScript template for Electric Zine Maker zines.
@@ -741,7 +741,7 @@ Tools for picking, analyzing, or seeing colors.
 ## Dealing with files:
 
 <a name="Operating-systems-and-files"></a>
-###Tools that interface with operating systems & files:
+### Tools that interface with operating systems & files:
 
 *   [Automator](https://support.apple.com/guide/automator/welcome/mac) - A piece of built-in Mac software that lets you automate your computer doing things with minimal code.
 *   [Toothfairy](https://c-command.com/toothfairy/) - Connect Bluetooth to your Mac with a single click or keypress
@@ -761,7 +761,7 @@ Tools for picking, analyzing, or seeing colors.
 
 
 <a name="Building-applications"></a>
-###Building applications & exes:
+### Building applications & exes:
 
 *   [HTMLE](https://gritfish.itch.io/htmle) - A project template and a set of scripts that take HTML and export an app or exe.
 *   [Enigma Virtual Box](https://enigmaprotector.com/en/aboutvb.html) - An application virtualization system for Windows.
@@ -773,7 +773,7 @@ Tools for picking, analyzing, or seeing colors.
 
 
 <a name="Converters-downloaders-reducers"></a>
-###Converters, downloaders, & reducers:
+### Converters, downloaders, & reducers:
 
 *   [Download Converter](https://converter.download3k.com/webp-to-any) - Convert between lots of different files.
 *   [Smallpdf](https://smallpdf.com/) - Pdf conversion and compression tools.
