@@ -474,7 +474,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [eLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder.
 *   [Pencil.js](https://pencil.js.org/) - Nice modular Javascript library with clear OOP syntaxe and lots of features.
 *   [LibGDX](https://libgdx.badlogicgames.com/) - A java game development framework
-
+*   [ShaderChain](https://connorbell.itch.io/shaderchain) - Cross-platform open source GLSL fragment shader composition engine for realtime and offline rendering.
 
 <a name="Machine-learning"></a>
 ### Machine learning:
