@@ -136,7 +136,7 @@ A fantasy console is like a regular console (machine specs, dev tools, community
 *   [Pico8](https://www.lexaloffle.com/pico-8.php) ($15) - Probably the most popular fantasy console for game dev, pico8 has harsh limitations but that are intentionally chosen. Code is written in lua. Export to standalone HTML+JS or PNG (a fantasy cartridge).
 *   [Tic-80](https://tic.computer/) - Coding in lua and moonscript. export to html or .tic.
 *   [Pixel Vision 8](https://www.pixelvision8.com/) - (Free, pro version is $30) - A no-console fantasy computer, navigate like the familiar icon-based desktops you know. 
-*   [LIKO-12](https://liko-12.github.io/%23/) - Entirely open-source and free, written in Lua. The dev says: “Why did I develop this? Because I wanted to buy PICO-8 but that's not possible without credit cards (no internet shopping in Syria)”.
+*   [LIKO-12](https://liko-12.github.io/) - Entirely open-source and free, written in Lua. The dev says: “Why did I develop this? Because I wanted to buy PICO-8 but that's not possible without credit cards (no internet shopping in Syria)”.
 *   [Pix64](https://zappedcow.itch.io/pix64) - An extremely tiny fantasy console (64x64 px).
 *   [Homegirl Pro](https://poeticandroid.itch.io/homegirl) - A fantasy console with a very different vibe! This one dispenses of pixel nostalgia and is modeled after a Commodore Amiga. Coding in Lua.
 *   [VectorBoy](https://davidjalbert.itch.io/vectorboy) - Again, a fantasy console that breaks the mold - VectorBoy uses straight lines to emulate vector graphics.
@@ -162,7 +162,7 @@ Tools or plug-ins that change the experience of using Unity.
 
 
 *   [Oikospiel-tools](https://github.com/fernandoramallo/oikospiel-tools) - Trigger-based tools for Unity for crafting games without programming.
-*   [Unity Bitmap Drawing](https://t.umblr.com/redirect?z%3Dhttps%253A%252F%252Fcandle.itch.io%252Funity-bitmap-drawing%26t%3DOWFhODM4Yzg2MjM1ODZjYjI2MjdkODYwNWI3NGNhZjdmYzA0MGQ2MyxUbU4zdWpESg%253D%253D%26p%3D%26m%3D0) - A library for adding real-time drawing to your Unity project.
+*   [Unity Bitmap Drawing](https://candle.itch.io/unity-bitmap-drawing) - A library for adding real-time drawing to your Unity project.
 *   [Clayxels](https://andrea-intg.itch.io/clayxels) - Adds tiny voxels that seamlessly blend together like clay.
 *   [unity-wave-function-collapse](https://selfsame.itch.io/unitywfc) - Bitmap & tilemap generation from a single example.
 *   [Tessera](https://assetstore.unity.com/packages/tools/modeling/tessera-procedural-tile-based-generator-155425)- 2d / 3d wave function collapse generation.
@@ -293,7 +293,7 @@ Tools for making images.
 *   [Hyperdither](https://www.tinrocket.com/content/hyperdither/) - An OS X app that uses dithering to turn color or grayscale images into 1-bit black and white.
 *   [Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/) - Same thing as Hyperdither more or less, just on the web.
 *   [Dithermachine](https://lunarlabs.itch.io/dither-machine) - A tool to help you generate dithering automatically.
-*   [BECOME A GREAT ARTIST IN JUST 10 SECONDS](http://ludumdare.com/compo/ludum-dare-27/?action%3Dpreview%26uid%3D4987) - Art toys/games that make unstable and dense colorfields, also usable as compositional tools.
+*   [BECOME A GREAT ARTIST IN JUST 10 SECONDS](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=4987) - Art toys/games that make unstable and dense colorfields, also usable as compositional tools.
 *   [darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer.
 *   [Pencil](http://pencil.evolus.vn/) - a free and open-source GUI prototyping tool
 *   [glitch-this!](https://github.com/TotallyNotChase/glitch-this) - highly customizable glitched images and GIFs in the command line.
@@ -310,7 +310,7 @@ Tools for creating moving images, either animated or videographic.
 *   [Jsetter](https://emad.itch.io/jpixel) - A free editor for making pixel art animations and tilesets.
 *   [Paint of Persia](https://dunin.itch.io/ptop) - A rotoscoping tool that lets you draw pixel art over video frames.
 *   [Clipnote](https://calcium-chan.itch.io/clipnote) - An online remake of the much beloved flipnote studio by Nintendo.
-*   [Looom](https://apps.apple.com/us/app/looom/id1454153126?ls%3D1) ($10) - An easy-to-pickup iOS app/toy that exports SVGs.
+*   [Looom](https://apps.apple.com/us/app/looom/id1454153126) ($10) - An easy-to-pickup iOS app/toy that exports SVGs.
 *   [Aseprite](https://dacap.itch.io/aseprite) ($15) - A a sprite editor that lets you create 2D animations, heavily used.
 *   [Pixatool](https://kronbits.itch.io/pixatool) ($50) - PixelArt conversion tool. Not cheap, but on sale regularly.
 *   [Juice FX](https://codemanu.itch.io/juicefx) ($20) - Add style (“juice”) to your sprites and animations.
@@ -360,7 +360,7 @@ Tools that help you deal with 3d models or 3d space.
 *   [Papercraft With Blender](https://www.instructables.com/id/Papercraft-With-Blender/) - Export blender model to a foldable paper sheet!
 *   [andrewmarsh.com/software](http://andrewmarsh.com/software/), more.
 *   [Dimensions.Guide](https://www.dimensions.guide/) - A database of measurements and sizes of everyday objects.
-*   [MagicaVoxel](https://ephtracy.github.io/%23ss-carousel_ss) - A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
+*   [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
 *   [SmartNormal 2.0](http://www.smart-page.net/smartnormal/) - Create normal maps from base textures for free.
 *   [PureRef](https://www.pureref.com/) - Organize your inspiration references and speed up your creative process for free.
 *   [Substance Suite](https://www.substance3d.com/substance/) - A unique ecosystem of tools and content dedicated to 3D Materials.
@@ -475,7 +475,7 @@ Tools that provide a backend or new programming environment in which to make oth
 ### Machine learning:
 
 *   [RunwayML](https://runwayml.com/) - A simple interface for using ML in creative applications.
-*   [Generated Photos](https://generated.photos/?ref%3Devernote.design) - AI generated models for projects.
+*   [Generated Photos](https://generated.photos/) - AI generated models for projects.
 *   [This Person Doesn’t Exist](https://thispersondoesnotexist.com/) - Same as above but generated live, bonus cats & horses.
 *   [Talk to Transformer](https://talktotransformer.com/) - Chat with a GPT2 text AI model, perhaps useful in generating that next line when you’ve got writer’s block.
 *   [Components AI](https://components.ai/) - an experimental computational design platform for exploring generative space.
@@ -549,7 +549,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [TiddlyWiki](https://tiddlywiki.com/) - a non-linear notebook for capturing, organising and sharing complex information.
 *   [Ren](https://pointillistic.com/ren/index.html) - A lightweight data-exchange text format.
 *   [The unified collected](https://unifiedjs.com/) - Hundreds of small packages for visualizing syntax trees and structured data.
-*   [domino](https://kool.tools/domino/%230,0) - web tool for arranging snippets of text into a shareable collage of thoughts/ideas. exports to standalone html
+*   [domino](https://kool.tools/domino/) - web tool for arranging snippets of text into a shareable collage of thoughts/ideas. exports to standalone html
 *   [Relative Fiction](https://relativefiction.com/) - A tool for creating dynamic stories relative to a reader's place, time and location (via the Foursquare API), weather (OpenWeatherMap) and more (custom feeds for recent news stories etc).
 
 
@@ -563,7 +563,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Capitalize My Title](https://capitalizemytitle.com/) - Online text shortcuts.
 *   [Tracery](http://www.tracery.io/) - Super-simple tool to generate text (& svg images!)
 *   [Text Color Fader](http://patorjk.com/text-color-fader/) - Generates color faded/rainbow text in HTML.
-*   [Text to ASCII](http://patorjk.com/software/taag/%23p%3Ddisplay%26f%3DGraffiti%26t%3DType%2520Something%2520) - Make your cool ASCII forum sig.
+*   [Text to ASCII](http://patorjk.com/software/taag/) - Make your cool ASCII forum sig.
 *   [ASCII table](https://www.ascii-codes.com/) - Code points & characters.
 *   [rot8000](http://rot8000.com/) - Caesar-cypher encryption that replaces each Unicode character with the one 0x8000 places forward or back.
 *   [Cliche Finder](http://cliche.theinfo.org/) - Analyzes input text for cliches.
@@ -596,7 +596,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [FontSprite](https://adamstrange.itch.io/fontsprite) - Complete .png fontsprite editor.
 *   [BitfontMaker2](http://www.pentacom.jp/pentacom/bitfontmaker2/) - Online editor for bitmap fonts with remixable gallery
 *   [Get the Font](https://www.getthefont.com/) - A huge font search engine. (Check that you can use them tho.)
-*   [unilist](https://unilist.raphaelbastide.com/%23arrows) - Kool Unicode icons.
+*   [unilist](https://unilist.raphaelbastide.com/#arrows) - Kool Unicode icons.
 *   [Font Map](http://fontmap.ideo.com/) - Using artificial intelligence to surface new relationships across fonts.
 *   [FontJoy](https://experiments.withgoogle.com/fontjoy) - Generate font combinations with deep learning.
 *   [SPACE TYPE GENERATOR](https://spacetypegenerator.com/) - a kinetic type generator.
@@ -626,7 +626,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Neocities](http://neocities.org/) - The Geocities of now, make a free website.
 *   [Hypnospace Productivity Suite](https://jay-tholen.itch.io/hsps) - Hypnospace Page Builder and Hypnospace Tune Sequencer from Hypnospace Outlaw - make your own!
 *   [txti](http://txti.es/) - Make a super fast & low bandwidth website right in the browser.
-*   [Binder](http://thisisourwork.net/binder/%23About) - A simple web template that connects a series of already-existing webpages.
+*   [Binder](http://thisisourwork.net/binder/#About) - A simple web template that connects a series of already-existing webpages.
 *   [Beaker Browser](https://beakerbrowser.com/) - A peer-to-peer browser that lets you publish websites easily and immediately with the dat protocol.
 *   [Glitch](https://glitch.com/) - Web-based tools to make and share websites & apps.
 *   [Clone Zone](http://clonezone.link/) - Clone and edit your own version of popular websites.
@@ -650,7 +650,7 @@ Tools that provide a backend or new programming environment in which to make oth
 <a name="Misc-website-related-code"></a>
 ### Misc kool website-related code:
 
-*   [dat.gui](https://workshop.chromeexperiments.com/examples/gui/%231--Basic-Usage) - Creates an interface that you can use to modify variables on a website.
+*   [dat.gui](https://workshop.chromeexperiments.com/examples/gui) - Creates an interface that you can use to modify variables on a website.
 *   [Neumorphism.io](https://neumorphism.io) - Generate Soft-UI CSS code.
 *   [98.css](https://jdan.github.io/98.css/) - A design system for building faithful recreations of old UIs.
 *   [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS animations for eccentric developers.
@@ -710,7 +710,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [Multicolr](http://labs.tineye.com/multicolr/) - Search images by color.
 *   [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - RGB, HSV, LCH & Lab image color statistics and clustering
 *   [scale](https://hihayk.github.io/scale/) - Color scale generator.
-*   [Werner’s Nomenclature of Colours](https://www.c82.net/werner/%23colors) - A recreation of the original 1821 color guidebook.
+*   [Werner’s Nomenclature of Colours](https://www.c82.net/werner/#colors) - A recreation of the original 1821 color guidebook.
 *   [Coolhue](https://webkul.github.io/coolhue/) - Nice gradients.
 *   [ColorZilla](https://www.colorzilla.com/) - Advanced color tools, including an extension.
 *   [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
@@ -777,8 +777,8 @@ Tools for picking, analyzing, or seeing colors.
 
 *   [Download Converter](https://converter.download3k.com/webp-to-any) - Convert between lots of different files.
 *   [Smallpdf](https://smallpdf.com/) - Pdf conversion and compression tools.
-*   [Shrinkme](https://shrinkme.app/?ref%3Dproducthunt) - Shrink images online.
-*   [Free Image and Photo Resizer](https://promo.com/tools/image-resizer/?ref%3Dproducthunt) - Perfect Sizes For Social Media And Web
+*   [Shrinkme](https://shrinkme.app) - Shrink images online.
+*   [Free Image and Photo Resizer](https://promo.com/tools/image-resizer/) - Perfect Sizes For Social Media And Web
 *   [Scrapy](https://scrapy.org/) - An open source framework for extracting the data you need from websites.
 *   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - A Mac application that automatically downloads websites from the Internet.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
@@ -804,7 +804,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [http://www.nathalielawhead.com/candybox/building-weird-games-with-alternative-technologies-workshop](http://www.nathalielawhead.com/candybox/building-weird-games-with-alternative-technologies-workshop) - S/A but on general workflows!
 *   [https://joon.be/techtoolbox/](https://joon.be/techtoolbox/) - GDC talks on homemade/weird/experimental tools.
 *   [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools) - Tools for AI & art.
-*   [http://www.galaxykate.com/pdfs/ComptonMateas-Casual%20Creators.pdf](http://www.galaxykate.com/pdfs/ComptonMateas-Casual%2520Creators.pdf) - Kate Compton talks about casual creators and tool usage.
+*   [http://www.galaxykate.com/pdfs/ComptonMateas-Casual%20Creators.pdf](http://www.galaxykate.com/pdfs/ComptonMateas-Casual%20Creators.pdf) - Kate Compton talks about casual creators and tool usage.
 *   [https://itch.io/t/10237/personal-games-resource-list](https://itch.io/t/10237/personal-games-resource-list) - A list of resources towards personal games from 2014.
 *   [https://notabug.org/Calinou/awesome-gamedev](https://notabug.org/Calinou/awesome-gamedev) - A list of (code focused) gamedev tools.
 *   [https://opensourcedesign.net/resources/](https://opensourcedesign.net/resources/) - Design tools.
@@ -812,7 +812,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [https://generativelandscapes.wordpress.com/](https://generativelandscapes.wordpress.com/) - All about generative landscapes
 *   [http://www.procjam.com/](http://www.procjam.com/) - All about generating things in general!
 *   [https://docs.google.com/document/d/1I5RulboZQx8X8NO3fDQ6yuCxI0ao0W7AAsz-2W3cqzA/edit](https://docs.google.com/document/d/1I5RulboZQx8X8NO3fDQ6yuCxI0ao0W7AAsz-2W3cqzA/edit) - A similarly exhaustive list of new media tools, with a lot oriented around video & performance.
-*   [https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview%23gid%3D0) - Image tool list!
+*   [https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0) - Image tool list!
 *   [https://timrodenbroeker.de/resources/](https://timrodenbroeker.de/resources/) - Many resources and learning links, sorted by type
 *   [http://osp.kitchen/tools/](http://osp.kitchen/tools/) - Open Source Publishing tools
 *   [https://beepb00p.xyz/annotating.html](https://beepb00p.xyz/annotating.html) - How to annotate literally everything (tools & theory).
