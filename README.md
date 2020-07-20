@@ -824,3 +824,4 @@ Tools for picking, analyzing, or seeing colors.
 *   [Milan's Ultimate Resource List 🗂🚀](https://docs.google.com/document/d/1Fa2-0H8XUrVhesKNikA2KJ2qTNjjZzdjDSUWWtW97KI/edit) - Milan's Ultimate Resource List - Code, design, & education focus
 *   [plaintextproject.online/tools.html](https://plaintextproject.online/tools.html) - List of tools that can help you work and live more efficiently in plain text.
 *   [webfieldmanual.com](https://webfieldmanual.com) - A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
+* [altctrls.info](http://altctrls.info) - Open and collaborative list of resources for making alternative controllers and playful installations.
