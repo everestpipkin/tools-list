@@ -397,6 +397,7 @@ Tools for sound effects, music, and general audio.
 
 *   [Paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - A program for extreme audio stretching. Make choruses and ambient tones.
 *   [Audacity](http://audacity.sourceforge.net/) - The free software for recording and editing sounds.
+*   [Sox](http://sox.sourceforge.net/) - A command line utility for converting and editing sounds. Especially useful for batch processing.
 *   [AudioSculpt](http://anasynth.ircam.fr/home/english/software/audiosculpt) - A visual approach to modifying a sound file.
 *   [Reaper](http://reaper.fm/) - Digital audio workstation
 *   [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Audio signal processing environment for mangling sound.
