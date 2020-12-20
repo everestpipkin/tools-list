@@ -288,6 +288,7 @@ Tools for making images.
 *   [JSPaint](https://jspaint.app/) - Microsoft Paint for the browser, more or less.
 *   [Krita](https://krita.org/en/) - A free & open source painting program.
 *   [GIMP](http://www.gimp.org/) - The GNU Image Manipulation Program.
+*   [Glimpse](https://glimpse-editor.org/) - A fork of GNU IMP with a better name. 
 *   [Paint.net](https://www.getpaint.net/) - Image and photo editing software for PCs that run Windows.
 *   [Strike](https://amorphous.itch.io/strike) - A web-based, 1-bit paint tool, primarily for quick sketching or line-drawing.
 
@@ -829,3 +830,4 @@ Tools for picking, analyzing, or seeing colors.
 *   [plaintextproject.online/tools.html](https://plaintextproject.online/tools.html) - List of tools that can help you work and live more efficiently in plain text.
 *   [webfieldmanual.com](https://webfieldmanual.com) - A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
 * [altctrls.info](http://altctrls.info) - Open and collaborative list of resources for making alternative controllers and playful installations.
+* [Game Making Tools Wiki](https://www.gamemaking.tools/wiki/) - Wiki with resources for amateur game makers. Open-source, fun-to-use, and unerappreciated stuff especially.
