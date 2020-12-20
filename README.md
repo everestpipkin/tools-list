@@ -324,6 +324,7 @@ Tools for creating moving images, either animated or videographic.
 *   [Synfig Studio](https://www.synfig.org/) - A 2D animation tool.
 *   [Video Downloader Bot](https://twitter.com/DownloaderBot/with_replies) - A twitterbot you can @mention to have it turn a piece of media into a download link.
 *   [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
+*   [Gifsicle](https://www.lcdf.org/gifsicle/) -  Command-line tool for creating, editing, and inspecting GIFs.
 *   [Easing functions cheat sheet](https://easings.net/en) - A “what type of animation do you need” resource.
 *   [Mr. Squiggles](http://www.mrsquiggles.com/) - Dead simple animated doodle maker.
 *   [Synopsis](https://synopsis.video/) - Open source computational cinematography.
