@@ -10,10 +10,10 @@ Permission is hereby granted, free of charge, to any person or organization (the
 1. The above copyright notice and this permission notice shall be included in all copies or modified versions of the Software.
 
 2. The User is one of the following:
-a. An individual person, laboring for themselves
-b. A non-profit organization
-c. An educational institution
-d. An organization that seeks shared profit for all of its members, and allows non-members to set the cost of their labor
+* a. An individual person, laboring for themselves
+* b. A non-profit organization
+* c. An educational institution
+* d. An organization that seeks shared profit for all of its members, and allows non-members to set the cost of their labor
 
 3. If the User is an organization with owners, then all owners are workers and all workers are owners with equal equity and/or equal vote.
 
