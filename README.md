@@ -72,6 +72,8 @@ Game engines that let you make a full game, but often within a particular style,
 
 
 *   [Flickgame](https://www.flickgame.org/) - A truly tiny engine, link frames to other frames. Share online or export.
+*   [Flickgame Import](https://www.glorioustrainwrecks.com/rhetoricstu/flickimport/index.html) - A Flickgame hack that allows you to import external images.
+*   [Flickgame Dither](http://starfold.org/flick/dither/) - Flickgame hack with different textured/dithered brushes.
 *   [GB Studio](https://www.gbstudio.dev/) - A drag and drop gameboy interface that lets you do some scripting. Export to html or an actual gameboy rom!
 *   [Bitsy](https://ledoux.itch.io/bitsy) - Bitsy is a simple sprite-based editor that lets you build rooms & worlds. Walk around and talk to people and be somewhere. Has a strong community.
 *   [Borksy](https://ayolland.itch.io/borksy) - Bitsy with hacks built-in.
