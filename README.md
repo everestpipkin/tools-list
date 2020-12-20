@@ -275,6 +275,7 @@ Tools for making images.
 *   [Terragen](https://planetside.co.uk/) - Photorealistic 3d terrain generator. Some versions are free for noncommercial use
 *   [Mapgen4](https://www.redblobgames.com/maps/mapgen4/) - Paint mountains, valleys, and oceans which determine biomes.
 *   [pattern mutation](https://lorenschmidt.itch.io/pattern-mutation-tool) - A tool for painting and exploring tiling patterns.
+*   [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) - A Windows app for generating and analyzing mazes.
 
 
 <a name="Paint-programs"></a>
