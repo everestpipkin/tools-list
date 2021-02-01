@@ -226,7 +226,7 @@ Tools for making maps & levels - some of them simply visual, others generate dat
 
 Tools for building game quests and interactive narratives.
 
-*   [rapidquest](https://rapidquest.ai)- A free web-based game narrative development environment. Uses AI to help craft branching quests for your game.
+*   [RapidQuest](https://rapidquest.ai)- A free web-based game narrative development environment. Uses AI to help craft branching quests for your game.
 
 
 <a name="Making-assets"></a>
