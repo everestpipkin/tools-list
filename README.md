@@ -19,6 +19,7 @@ Additions? Make a pull request and add a suggestion under the appropriate headin
 		+ [Neat Unity Extenders](#Neat-Unity-Extenders)
 		+ [Neat Godot Extenders](#Neat-Godot-Extenders)
 	- [Maps, place, & levels](#Maps-place-levels)
+	- [Quest & Narrative Design](#quest-narrative-design)
 * **[Making “assets” - images, models, sound, video](#Making-assets)**
 	- [Graphics](#Graphics):
 		+ [Pixel art](#Pixel-art)
@@ -218,6 +219,15 @@ Tools for making maps & levels - some of them simply visual, others generate dat
 *   [Topo Topo](http://topotopo.io/) - Get a little square of 3d elevation data, anywhere.
 *   [Nototo](https://www.nototo.app/) - Build and visualize all your notes, as a map
 *   [terrain.party](http://terrain.party/) - nice interface for getting terrain heightmaps anywhere in the world
+
+
+<a name="quest-narrative-design"></a>
+### Quest & Narrative Design:
+
+Tools for building game quests and interactive narratives.
+
+*   [rapidquest](https://rapidquest.ai)- A free web-based game narrative development environment. Uses AI to help craft branching quests for your game.
+
 
 <a name="Making-assets"></a>
 ## Making “assets” - images, models, sound, video:
