@@ -4,7 +4,13 @@
 
 The goal of this list is to enable making entirely outside of closed production ecosystems or walled software gardens.
 
-Additions? Make a pull request and add a suggestion under the appropriate heading, in the same format as the list. (If you're not comfortable with Git, just email me - everest.pipkin @ gmail. ☺︎︎ )
+---
+
+### NEW -- I've built a web interface for sorting through the tools.
+
+**Visit  at; [tinytools.neocities.org](https://tinytools.neocities.org/)**
+
+All additions to the list should now go through the website, which takes submissions from this [handy form](https://docs.google.com/forms/d/e/1FAIpQLSeS1wnK2-FYW7IKlcMKKfg2ODBmeFcPTs-oExFlD_Cwq68FRA/viewform). (I will still be updating the following markdown list with changes, but it may be behind the web interface.) 
 
 ---
 
