@@ -108,6 +108,7 @@ Game engines that let you make a full game, but often within a particular style,
 *   [The Adliberum Engine](https://store.steampowered.com/app/657180/The_Adliberum_Engine_ADLENGINE/) - (Free but on Steam, early access) Make text adventures, muds and text-powered roleplaying games.
 *   [Yarn Spinner](https://yarnspinner.dev/) - The friendly tool for writing game dialogue.
 *   [Cheap Bots Done Quick](https://cheapbotsdonequick.com/) - A site where you can make a twitterbot today.
+*   [Visual Pinball](https://sourceforge.net/projects/vpinball/) - A pinball making engine.
 
 
 <a name="Indie-open-source-bigger-game-engines"></a>
