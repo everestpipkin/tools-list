@@ -6,9 +6,9 @@ The goal of this list is to enable making entirely outside of closed production 
 
 ---
 
-### NEW -- I've built a web interface for sorting through the tools.
+### NEW -- I've built a web interface for sorting through the tools!
 
-**Visit  at; [tinytools.neocities.org](https://tinytools.neocities.org/)**
+**Visit  at; [tinytools.directory](https://tinytools.directory/)**
 
 All additions to the list should now go through the website, which takes submissions from this [handy form](https://docs.google.com/forms/d/e/1FAIpQLSeS1wnK2-FYW7IKlcMKKfg2ODBmeFcPTs-oExFlD_Cwq68FRA/viewform). (I will still be updating the following markdown list with changes, but it may be behind the web interface.) 
 
