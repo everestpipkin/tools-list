@@ -610,7 +610,7 @@ Tools that provide a backend or new programming environment in which to make oth
 <a name="Fonts-font-resources"></a>
 ### Fonts & font resources:
 
-*   [enFont Terrible](https://enfont-terrible.glitch.me/) - A weird type foundry that will export new fonts.
+*   [enFont Terrible](https://enfont.javierarce.com/) - A weird type foundry that will export new fonts.
 *   [Phase](https://www.eliashanzer.com/phase/) - A generative type interface/toy, exported fonts free for personal use.
 *   [Open Font Library](http://openfontlibrary.org/) - A collection of freely licensed fonts.
 *   [Google Fonts](https://www.google.com/fonts) - A collection of freely-licensed fonts.
