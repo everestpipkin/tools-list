@@ -516,7 +516,7 @@ Tools that provide a backend or new programming environment in which to make oth
 <a name="Live-Coding"></a>
 ### Live Coding:
 
-*   [Orca](https://hundredrabbits.itch.io/orca) - An esoteric language, usable as a live coding environment that can send and create MIDI, OSC & UDP signals.
+*   [Orca](https://100r.co/site/orca.html) - An esoteric language, usable as a live coding environment that can send and create MIDI, OSC & UDP signals.
 *   [Hydra](https://hydra-editor.glitch.me) - A platform for live coding visuals, where each browser window is a node.
 *   [cables](https://cables.gl/) - A tool for creating beautiful interactive content with nodes.
 *   [Fragment](https://www.fsynth.com/) - a collaborative cross-platform AV live coding environment with pixels.
