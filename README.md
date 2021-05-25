@@ -341,7 +341,7 @@ Tools for creating moving images, either animated or videographic.
 *   [Mr. Squiggles](http://www.mrsquiggles.com/) - Dead simple animated doodle maker.
 *   [Synopsis](https://synopsis.video/) - Open source computational cinematography.
 *   [Time Lapse Assembler](http://www.dayofthenewdan.com/projects/time-lapse-assembler-1/) - Create movies from a sequence of images.
-*   [SpookyGhost](https://encelo.itch.io/spookyghost) - (25$) A procedural animation tool for sprites.
+*   [SpookyGhost](https://encelo.itch.io/spookyghost) - An open source cross-platform procedural animation tool for sprites.
 
 
 <a name="3d"></a>
