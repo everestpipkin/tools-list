@@ -805,6 +805,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [Free Image and Photo Resizer](https://promo.com/tools/image-resizer/) - Perfect Sizes For Social Media And Web
 *   [Scrapy](https://scrapy.org/) - An open source framework for extracting the data you need from websites.
 *   [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - A Mac application that automatically downloads websites from the Internet.
+*   [Automatio](https://automatio.co) - No-code web automation & data extraction tool.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 *   [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - A command-line program to download videos from YouTube.
 *   [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video in the console.
