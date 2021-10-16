@@ -673,6 +673,7 @@ Tools that provide a backend or new programming environment in which to make oth
 <a name="Misc-website-related-code"></a>
 ### Misc kool website-related code:
 
+*   [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 *   [dat.gui](https://workshop.chromeexperiments.com/examples/gui) - Creates an interface that you can use to modify variables on a website.
 *   [Neumorphism.io](https://neumorphism.io) - Generate Soft-UI CSS code.
 *   [98.css](https://jdan.github.io/98.css/) - A design system for building faithful recreations of old UIs.
