@@ -95,7 +95,6 @@ Game engines that let you make a full game, but often within a particular style,
 *   [RPG Paper Maker](https://wano.itch.io/rpg-paper-maker) - An extremely cute jrpg-focused engine that lets you place flat sprites in a 3d world. (free, but $70 if you sell your game commercially)
 *   [Flatgames](https://flatgame.itch.io/first-timers-tutorial) - Flatgames tutorial - as much a concept as a tool (2d, a raw combination of movement, art and sound.
 *   [Flatpack](https://candle.itch.io/flatpack) - Flatpack bundles Flatgame ideas up into a tool that you can import into Unity or run on Android.
-*   [Tiny Game Maker](https://isthisstatic.itch.io/tiny-game-maker) - For small, one screen games without programming.
 *   [Kooltool](https://candle.itch.io/kooltool) - An experimental game making tool which has Kidpix vibes.
 *   [The Unfolding Game Engine](https://barch.itch.io/unfolding) - One to watch (in early access right now). A “paint a world” engine that lets you make your world while playing it. 2.5d. 
 *   [Multiverse](https://www.playmultiverse.com/) - Not out yet - a storytelling and game making tools/game.
@@ -694,7 +693,6 @@ Tools that provide a backend or new programming environment in which to make oth
 
 *   [Archiving URLs](https://www.gwern.net/Archiving-URLs) - Anti-linkrot toolset.
 *   [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights) - A (very useful) Google tester that can help you reduce bandwidth on your websites.
-*   [Fit on a Floppy](https://fitonafloppy.website/) - A tool to see if a website would fit on a floppy disk.
 *   [Website Carbon Calculator](https://www.websitecarbon.com/how-does-it-work/) - Calculates the carbon emissions of a website.
 *   [Piratebox](https://piratebox.cc/faq) - Make your own offline wireless networks designed for anonymous file sharing, chatting, message boarding, and media streaming.
 *   [Pilgrim](http://pilgrim.are.na/) - An experimental combination of a bookmarklet and web-crawler.
