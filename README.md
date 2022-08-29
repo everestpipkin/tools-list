@@ -511,6 +511,9 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Deezer](https://github.com/deezer/spleeter) - an audio source separation library including pretrained models.
 *   [Pix2Pix](https://ml4a.github.io/guides/Pix2Pix/) - image transformation between parallel datasets of corresponding image pairs
 *   [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools) - More AI generated tools
+*   [Interviewbit](https://www.interviewbit.com/blog/best-machine-learning-books) - Best Machine Learning Books for Beginners & Experts.
+*   [Machine Learning](https://www.interviewbit.com/machine-learning-interview-questions) - Machine Learning Interview Questions.
+*   [Machine Learning Courses](https://www.interviewbit.com/blog/best-machine-learning-courses) - Best Machine Learning Courses.
 
 
 <a name="Live-Coding"></a>
