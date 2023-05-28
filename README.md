@@ -89,7 +89,6 @@ Game engines that let you make a full game, but often within a particular style,
 *   [bitsy mixer template](https://github.com/moreelen/bitsy-mixer) - Hacks that extend the functionality of bitsy in various ways.
 *   [Flicksy](https://candle.itch.io/flicksy) - A tool for drawing and assembling graphical hypertext games - lets you import drawings!
 *   [Mosi](https://zenzoa.itch.io/mosi) - Similar to bitsy, but with more color & sound support, and more advanced scripting options.
-*   [Bravitzlana](http://bravitzlana.com/tutorial) - A tool for making small interactive scenes (3d! kind of) that you can share with people.
 *   [PuzzleScript](https://www.puzzlescript.net/) - An open source, HTML5 puzzle-game oriented editor.
 *   [Dungeonscript](http://dungeonscript.farbs.org/) - Puzzlescript, but first person
 *   [RPG Paper Maker](https://wano.itch.io/rpg-paper-maker) - An extremely cute jrpg-focused engine that lets you place flat sprites in a 3d world. (free, but $70 if you sell your game commercially)
@@ -98,12 +97,10 @@ Game engines that let you make a full game, but often within a particular style,
 *   [Tiny Game Maker](https://isthisstatic.itch.io/tiny-game-maker) - For small, one screen games without programming.
 *   [Kooltool](https://candle.itch.io/kooltool) - An experimental game making tool which has Kidpix vibes.
 *   [The Unfolding Game Engine](https://barch.itch.io/unfolding) - One to watch (in early access right now). A “paint a world” engine that lets you make your world while playing it. 2.5d. 
-*   [Multiverse](https://www.playmultiverse.com/) - Not out yet - a storytelling and game making tools/game.
 *   [Bitmelo](https://davidbyers.itch.io/bitmelo) - A game editor and engine for making small pixel art games. In early access, exports to HTML5.
 *   [Sok Worlds](https://sokpop.itch.io/sok-worlds) - ($3) A truly wild game/tool where you make and explore 3d collage worlds (images from the pixabay API, but there are over a million to choose from.).
 *   [Sok Stories](https://sokpop.itch.io/sok-stories) - ($3) A drawing-based way to make and share games.
 *   [Wick](https://www.wickeditor.com) - Also an animation program, a friendly flash-like for multimedia projects that allows interaction and game-like play.
-*   [Unicorn Console](https://github.com/Gigoteur/UnicornConsole) - A “a quick and dirty engine … with a resolution of 400x240 pixels.”
 *   [Vipercard](https://www.vipercard.net/) - An open source reimagining of 1987’s Hypercard.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories. Has a big community and multiple versions and themes.
 *   [Choicescript](https://www.choiceofgames.com/make-your-own-games/choicescript-intro/) - Like Twine, but for more traditional CYOA gamebooks-with-stats. Tight community on the forums.
