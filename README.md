@@ -740,6 +740,7 @@ Tools for picking, analyzing, or seeing colors.
 *   [Color Scales](http://www.colorscales.com/en/start) - Find tints, tones and shades of a color based on human perception.
 *   [Colorable](https://jxnblk.github.io/colorable/) - Color palette combination contrast tester, for node.js
 *   [ColorsWall](https://colorswall.com/) - Place to store color palettes and generate, color convert tools
+*   [Sez](https://sez.c-sharptutorial.com/) - Generate and apply color palettes to HTML website themes.
 
 
 <a name="Zines-books-prints"></a>
