@@ -627,6 +627,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Dinamo Darkroom](https://dinamodarkroom.com/) - Tools that help or confuse the modern type designer.
 *   [FontSquirrel](https://www.fontsquirrel.com/) - free fonts web
 *   [Dafont](https://www.dafont.com/es/) - free fonts web
+*   [What Font Finder](https://whatfontfinder.com/) - Identify a font from an image, then browse free lookalikes with their licences stated.
 
 
 <a name="Productivity"></a>
