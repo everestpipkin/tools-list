@@ -558,6 +558,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Etherpad](https://etherpad.org/) - A real-time collaborative document editor.
 *   [VSCode](https://code.visualstudio.com/) - technically has an OS Version? A lot of useful features for .js devs
 *   [Anagram Artist](http://anagrammy.com/resources/anagram_artist.html) - (Requires email registration) A text editor for composing anagrams.
+*   [Emacs](https://www.gnu.org/software/emacs/) - The extensible, customisable text editor
 
 
 <a name="Experimental-text-tools"></a>
