@@ -313,6 +313,7 @@ Tools for making images.
 *   [Dithermachine](https://lunarlabs.itch.io/dither-machine) - A tool to help you generate dithering automatically.
 *   [BECOME A GREAT ARTIST IN JUST 10 SECONDS](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=4987) - Art toys/games that make unstable and dense colorfields, also usable as compositional tools.
 *   [darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer.
+*   [LightTable](https://lighttable.app/) - A free and open source digital darkroom and raw developer, with film stock simulation modelled from real emulsions.
 *   [Pencil](http://pencil.evolus.vn/) - a free and open-source GUI prototyping tool
 *   [glitch-this!](https://github.com/TotallyNotChase/glitch-this) - highly customizable glitched images and GIFs in the command line.
 *   [Kraken](https://kraken.io/) - app for smaller weight of files, assets
