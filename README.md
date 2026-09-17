@@ -799,7 +799,7 @@ Tools for picking, analyzing, or seeing colors.
 <a name="Converters-downloaders-reducers"></a>
 ### Converters, downloaders, & reducers:
 
-*   [Download Converter](https://converter.download3k.com/webp-to-any) - Convert between lots of different files.
+*   [A Box of Tools](https://abox.tools/) - 50 image, video, PDF and audio converters that run entirely in the browser; files are never uploaded.
 *   [Smallpdf](https://smallpdf.com/) - Pdf conversion and compression tools.
 *   [Shrinkme](https://shrinkme.app) - Shrink images online.
 *   [Free Image and Photo Resizer](https://promo.com/tools/image-resizer/) - Perfect Sizes For Social Media And Web
@@ -811,7 +811,6 @@ Tools for picking, analyzing, or seeing colors.
 *   [HandBrake](https://handbrake.fr) - The open source video transcoder.
 *   [ImageMagick](https://imagemagick.org/) - Create, edit, compose, or convert bitmap images in the console.
 *   [Otf to Woff](https://everythingfonts.com/otf-to-woff) - Font filetype converters.
-*   [OnlineVideoConverter](https://www.onlinevideoconverter.com/) - Free video conversion tool.
 *   [’Peg It](https://www.ravenblack.net/programs/) - Jpeg compression tool that lets you control how compressed you make it by sliding a bar and seeing a preview. Choose the perfect balance of size and quality.
 
 
