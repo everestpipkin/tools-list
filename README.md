@@ -382,6 +382,7 @@ Tools that help you deal with 3d models or 3d space.
 *   [Dimensions.Guide](https://www.dimensions.guide/) - A database of measurements and sizes of everyday objects.
 *   [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
 *   [SmartNormal 2.0](http://www.smart-page.net/smartnormal/) - Create normal maps from base textures for free.
+*   [NormalMapBench](https://normalmapbench.com/) - Create normal maps from images in the browser, with live strength, smoothing, edge and lighting controls.
 *   [PureRef](https://www.pureref.com/) - Organize your inspiration references and speed up your creative process for free.
 *   [Substance Suite](https://www.substance3d.com/substance/) - A unique ecosystem of tools and content dedicated to 3D Materials.
 
